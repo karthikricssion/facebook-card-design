@@ -6,7 +6,7 @@ Trying out facebook card designs.
 
 ### To do list
 1. ~Text Card~ [Demo](https://bootsnipp.com/snippets/blMWA)
-2. Image Card [Demo](https://bootsnipp.com/snippets/8qZp3)
+2. ~Image Card~ [Demo](https://bootsnipp.com/snippets/8qZp3)
 3. Video Card
-4. Post sharing Card [Demo] (https://bootsnipp.com/snippets/n49kk)
+4. ~Post sharing Card~ [Demo](https://bootsnipp.com/snippets/n49kk)
 5. Sponsord Post
