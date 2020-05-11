@@ -19,4 +19,8 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Vide
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video \
 
-https://css-tricks.com/almanac/selectors/a/attribute/
+https://css-tricks.com/almanac/selectors/a/attribute/ \
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ \ 
+
+https://every-layout.dev/layouts/stack/
