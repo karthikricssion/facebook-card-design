@@ -1,0 +1,21 @@
+.controls-container {
+    display: flex;
+
+    .items {
+        order: 5;
+    }
+
+    #playpause {
+        &[data-state="play"] {
+            .fa-pause {
+                display: none;
+            }
+        }
+
+        &[data-state="pause"] {
+            .fa-play {
+                display: none;
+            }
+        }
+    }
+}
