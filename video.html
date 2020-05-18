@@ -12,44 +12,49 @@
   </head>
   <body>
 
-    <video width="300" id="video">
-        <source src="./assets/video/simon-sinek.mp4" type="video/mp4">
-    </video>
 
+    <div id="videoContainer">
+        <video width="300" id="video">
+            <source src="./assets/video/simon-sinek.mp4" type="video/mp4">
+        </video>
 
-    <div id="video-controls" class="controls-container">
-        <div class="items play-pause-holder">
-            <button id="playpause" type="button" data-state="play">
-                <i class="fas fa-play"></i>
-                <i class="fas fa-pause"></i>
-            </button>
-        </div>
-        
-        <div class="items progress">
-           <progress id="progress" value="0" min="0">
-              <span id="progress-bar"></span>
-           </progress>
-        </div>
-
-        <div class="items">
-            <button id="mute" type="button" data-state="mute">
-                <i class="fas fa-cog"></i>
-            </button>
-        </div>
-
-        <div class="items">
-            <button id="volinc" type="button" data-state="volup">
-                <i class="fas fa-volume-down"></i>
-                <i class="fas fa-volume-up"></i>
-                <i class="fas fa-volume-off"></i>
-                <i class="fas fa-volume-mute"></i>
-            </button>
-        </div>
-        
-        <div class="items">
-            <button id="fs" type="button" data-state="go-fullscreen">
-                <i class="fas fa-expand"></i>
-            </button>
+        <div class="controls-container">
+            <div class="items play-pause-holder">
+                <button id="playpause" type="button" data-state="play">
+                    <i class="fas fa-play"></i>
+                    <i class="fas fa-pause"></i>
+                </button>
+            </div>
+            
+            <div class="items progress">
+               <progress id="progress" value="50" min="0" max="100">
+                  <span id="progress-bar"></span>
+               </progress>
+            </div>
+    
+            <div class="items">
+                <button id="mute" type="button" data-state="mute">
+                    <i class="fas fa-cog"></i>
+                </button>
+            </div>
+    
+            <div class="items">
+                <button id="volinc" type="button" data-state="volup">
+                    <i class="fas fa-volume-down"></i>
+                    <i class="fas fa-volume-up"></i>
+                    <i class="fas fa-volume-off"></i>
+                    <i class="fas fa-volume-mute"></i>
+                </button>
+                <progress id="volumeProgress" value="10" min="0" max="100">
+                    <span id="progress-bar"></span>
+                 </progress>
+            </div>
+            
+            <div class="items">
+                <button id="fs" type="button" data-state="go-fullscreen">
+                    <i class="fas fa-expand"></i>
+                </button>
+            </div>
         </div>
      </div>
 
