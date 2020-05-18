@@ -8,7 +8,7 @@ Complete [Demo](https://gallant-mayer-2d53aa.netlify.app/)
 ### To do list
 1. ~Text Card~ [Demo](https://bootsnipp.com/snippets/blMWA)
 2. ~Image Card~ [Demo](https://bootsnipp.com/snippets/8qZp3)
-3. Video Card
+3. Video Card [Demo](https://gallant-mayer-2d53aa.netlify.app/)
 4. Post sharing Card
 5. ~Sponsord Post~ [Demo](https://bootsnipp.com/snippets/n49kk)
 
